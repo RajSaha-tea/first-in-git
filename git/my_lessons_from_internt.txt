@@ -39,3 +39,4 @@ usage: git add [<options>] [--] <pathspec>...
     --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
  git commit -a -m "hgghfg" will directly commit without stageing.gg
 -o, --only            commit only specified files
+git rm --cached for put into  untracted files.
