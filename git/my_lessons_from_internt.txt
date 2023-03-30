@@ -37,4 +37,5 @@ usage: git add [<options>] [--] <pathspec>...
     --pathspec-from-file <file>
                           read pathspec from file
     --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
- git commit -a -m "hgghfg" will directly commit without stageing.
+ git commit -a -m "hgghfg" will directly commit without stageing.gg
+-o, --only            commit only specified files
